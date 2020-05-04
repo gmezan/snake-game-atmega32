@@ -1,5 +1,5 @@
 # Snake Game using ATmega32 
-Snake game using atmega32 and 8x8 LED Matrix. First project using a microcontroller with C language. Coded from scratch and using electronic components such a resistors and transistors.
+Snake game using atmega32 and 8x8 LED Matrix. First project using a microcontroller with C language. Coded from scratch and using electronic components such as resistors and transistors.
 Circuit board implementation.
 
 * Atmel Studio Project
