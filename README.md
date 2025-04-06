@@ -6,9 +6,8 @@ Circuit board implementation.
 * ATmega32 
 * Electronics
 
+## [Demo](https://youtu.be/k5iCEOoawbE)
 
-## Results
-<img src="/snake.jpg" >
 
-## Video with Results
-[![Watch the video](https://9to5mac.com/wp-content/uploads/sites/6/2017/08/youtube_logo_dark.jpg)](https://youtu.be/k5iCEOoawbE)
+https://github.com/user-attachments/assets/d0050353-f2ee-4fbe-bdf1-e9f79c0974e2
+
